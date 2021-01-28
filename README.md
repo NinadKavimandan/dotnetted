@@ -1,6 +1,6 @@
 # dotnetted
 
-<p> This repo contains various sample projects built for .NET Core. </br>
+<p> This repo contains various sample projects built for .NET Core </br>
 To deploy these to azure (web apps for now), <code>deployer.bat</code>  is added. (Works on windows machine only) </p>
 
 ## How to deploy to your existing azure web app?
